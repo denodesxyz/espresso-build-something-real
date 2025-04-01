@@ -25,7 +25,11 @@ The rollups have been tested with a transaction simulation script that generated
 
 ## Demonstration
 
-<img width="960" alt="Screenshot 2025-03-31 at 4 52 44 PM" src="https://github.com/user-attachments/assets/530bb870-7ec7-4bb2-9926-c974eeb5c96b" />
+<img width="960" alt="Screenshot 2025-03-31 at 4 52 44 PM" src="https://github.com/user-attachments/assets/8411ba61-4e0a-40d4-b114-f935be2d7664" />
 
 - [Demo Recording](https://youtu.be/2-UFYsHVv7U) (Arbitrum Sepolia)
 - [Demo Recording](https://www.youtube.com/watch?v=K2Wx1jL-fIs) (Arbitrum Mainnet)
+
+##
+
+*Brewed by [deNodes](https://x.com/denodes_io)* ☕️
